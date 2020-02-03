@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"116b8317-d732-403e-9147-55a391c61db9.parameter","label":"1➛parameter","reference_display":"parameter","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-31 17:53:58</sys_created_on>
+        <sys_id>6457f5bbdb6200103e14bd5139961964</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_347939_needit_sp">2406f5bbdb6200103e14bd51399619b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">2406f5bbdb6200103e14bd51399619b8</sys_scope>
+        <sys_update_name>sys_hub_flow_6457f5bbdb6200103e14bd5139961964</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-31 19:24:02</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=6457f5bbdb6200103e14bd5139961964"/>
+    <sys_variable_value action="delete_multiple" query="document_key=6457f5bbdb6200103e14bd5139961964"/>
+</record_update>
